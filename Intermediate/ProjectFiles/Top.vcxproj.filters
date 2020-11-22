@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Top.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{138C9D4A-EEE3-4D20-AF3D-8013858C024C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Top.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TopEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{90DE2883-EDF7-426B-82F8-9B714C9FA79F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Top">
+      <UniqueIdentifier>{042E05ED-CF63-46BC-B65C-6F4629CFF06A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Top\Top.Build.cs">
+      <Filter>Source\Top</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Top\Top.cpp">
+      <Filter>Source\Top</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Top\Top.h">
+      <Filter>Source\Top</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Top\TopGameModeBase.cpp">
+      <Filter>Source\Top</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Top\TopGameModeBase.h">
+      <Filter>Source\Top</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

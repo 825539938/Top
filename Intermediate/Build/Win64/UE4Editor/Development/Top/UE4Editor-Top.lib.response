@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Top.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Users\825539938\Documents\Unreal Projects\Top\Intermediate\Build\Win64\TopEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Users\825539938\Documents\Unreal Projects\Top\Intermediate\Build\Win64\UE4Editor\Development\Top\Top.cpp.obj"
+"D:\Users\825539938\Documents\Unreal Projects\Top\Intermediate\Build\Win64\UE4Editor\Development\Top\TopGameModeBase.cpp.obj"
+"D:\Users\825539938\Documents\Unreal Projects\Top\Intermediate\Build\Win64\UE4Editor\Development\Top\Top.init.gen.cpp.obj"
+"D:\Users\825539938\Documents\Unreal Projects\Top\Intermediate\Build\Win64\UE4Editor\Development\Top\TopGameModeBase.gen.cpp.obj"
+"D:\Users\825539938\Documents\Unreal Projects\Top\Intermediate\Build\Win64\UE4Editor\Development\Top\Default.rc2.res"
+/OUT:"D:\Users\825539938\Documents\Unreal Projects\Top\Intermediate\Build\Win64\UE4Editor\Development\Top\UE4Editor-Top.lib"
+/INCLUDE:IMPLEMENT_MODULE_Top

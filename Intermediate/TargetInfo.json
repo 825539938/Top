@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Top",
+			"Path": "D:\\Users\\825539938\\Documents\\Unreal Projects\\Top\\Source\\Top.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TopEditor",
+			"Path": "D:\\Users\\825539938\\Documents\\Unreal Projects\\Top\\Source\\TopEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
